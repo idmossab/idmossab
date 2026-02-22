@@ -1,6 +1,3 @@
-Preview
-Markdown
-Copy
 Hi 👋 My name is Mossab Idbenkellal
 ===================================
 
