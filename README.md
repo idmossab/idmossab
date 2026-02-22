@@ -4,9 +4,9 @@ Hi 👋 My name is Mossab Idbenkellal
 Full Stack Developer (Java / Angular) | DevOps & Cloud
 ------------------------------------------------------
 
-Welcome to my GitHub profile!
+<h3>Welcome to my GitHub profile!</h3>
 
-<h3>I'm a Full Stack Developer specializing in Java and Angular, currently expanding my expertise in DevOps and Cloud engineering.</3>
+I'm a Full Stack Developer specializing in Java and Angular, currently expanding my expertise in DevOps and Cloud engineering.
 
 I enjoy building scalable applications, automating repetitive workflows, and developing productivity-driven tools like browser extensions and custom scripts.
 
