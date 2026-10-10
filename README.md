@@ -12,7 +12,7 @@ I enjoy building scalable applications, automating repetitive workflows, and dev
 
 * 🌍  I'm based in Morocco
 * 🖥️  See my portfolio at [idmossab](http://idmossab.com)
-* ✉️  You can contact me at [idmossab@gmail.com](mailto:idmossab@gmail.com)
+* ✉️  You can contact me at [idmossab@gmail.com](mailto:mossabbs888@gmail.com)
 * 🧠  I'm currently learning DevOps & Cloud
 
 <p align="left">
