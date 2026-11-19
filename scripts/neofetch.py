@@ -8,17 +8,18 @@ from xml.sax.saxutils import escape
 
 BG, BAR, FG, MUTED, ACCENT = "#151515", "#1f1f1f", "#f4f1eb", "#b8b6b0", "#F05A2A"
 FONT = "ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace"
-W, H = 520, 400
+W, H = 861, 420  # W matches heatmap.svg (53 weeks) so both scale alike at width=100%
 
 INFO = [
     ("Role", "Digital Product Builder"),
-    ("Focus", "AI Content Creation & Email Marketing"),
-    ("Products", "Wortsuche (Google Play), 3 Chrome extensions"),
-    ("Content", "2M+ views on AI-made videos"),
-    ("Email", "Deliverability, warm-up, SPF/DKIM/DMARC"),
-    ("Stack", "Flutter, JavaScript, Python, Bash, n8n"),
-    ("Languages", "Arabic, German (B1), English, French"),
-    ("Location", "Oujda, Morocco"),
+    ("Languages", "JavaScript, TypeScript, Python, Go, Dart, Java, C, Bash"),
+    ("Frontend", "HTML, CSS, React, Bootstrap"),
+    ("Mobile", "Flutter, Android"),
+    ("Backend", "Node.js, PHP / Laravel, Spring Boot"),
+    ("Databases", "PostgreSQL, MySQL, SQLite, MongoDB"),
+    ("Automation", "n8n, Bash, Python scripts"),
+    ("AI tools", "Claude Code, ChatGPT, Gemini, Ollama"),
+    ("DevOps", "Docker, Git, GitHub Actions, Linux"),
 ]
 
 
@@ -39,7 +40,7 @@ def main(out="assets/neofetch.svg"):
         f'<tspan fill="{MUTED}">{"-" * 13}</tspan>',
     ]
     rows += [
-        f'<tspan fill="{ACCENT}" font-weight="bold">{escape(k + ":"):<11}</tspan><tspan fill="{FG}">{escape(v)}</tspan>'
+        f'<tspan fill="{ACCENT}" font-weight="bold">{escape(k + ":"):<12}</tspan><tspan fill="{FG}">{escape(v)}</tspan>'
         for k, v in INFO
     ]
     n = len(rows) + 1  # +1 for the colour strip
