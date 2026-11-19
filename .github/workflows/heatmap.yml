@@ -1,0 +1,26 @@
+name: Refresh contribution heatmap
+
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  heatmap:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python scripts/heatmap.py idmossab assets/heatmap.svg
+      - name: Commit if changed
+        run: |
+          git diff --quiet assets/heatmap.svg && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "chore: refresh contribution heatmap [skip ci]"
+          git push

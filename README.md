@@ -1,26 +1,75 @@
-Hi 👋 My name is Mossab Idbenkellal
-===================================
+### `mossab@github ~ $ whoami`
 
-Full Stack Developer (Java / Angular) | DevOps & Cloud
-------------------------------------------------------
+<table>
+  <tr>
+    <td width="42%"><img src="assets/portrait.svg" alt="ASCII portrait of Mossab" width="100%"/></td>
+    <td width="58%"><img src="assets/neofetch.svg" alt="Role: Digital Product Builder. Focus: AI Content Creation and Email Marketing. Products: Wortsuche (Google Play), 3 Chrome extensions. Content: 2M+ views on AI-made videos. Email: deliverability, warm-up, SPF/DKIM/DMARC. Stack: Flutter, JavaScript, Python, Bash, n8n. Languages: Arabic, German (B1), English, French. Location: Oujda, Morocco." width="100%"/></td>
+  </tr>
+</table>
 
-<h3>Welcome to my GitHub profile!</h3>
+### `mossab@github ~ $ ./contributions.sh`
 
-I'm a Full Stack Developer specializing in Java and Angular, currently expanding my expertise in DevOps and Cloud engineering.
+<img src="assets/heatmap.svg" alt="GitHub contribution heatmap" width="100%"/>
 
-I enjoy building scalable applications, automating repetitive workflows, and developing productivity-driven tools like browser extensions and custom scripts.
+## Hi, I'm Mossab
 
-* 🌍  I'm based in Morocco
-* 🖥️  See my portfolio at [idmossab](http://idmossab.com)
-* ✉️  You can contact me at [idmossab@gmail.com](mailto:mossabbs888@gmail.com)
-* 🧠  I'm currently learning DevOps & Cloud
+I build digital products and connect them with marketing.
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" title="C#" width="36" height="36" /></a><a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg" alt="Spring Boot" title="Spring Boot" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" alt="Go" title="Go" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" alt="Angular" title="Angular" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" alt="JQuery" title="JQuery" width="36" height="36" /></a><a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" alt="GraphQL" title="GraphQL" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored-dark.svg" alt="XD" title="XD" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="Wordpress" title="Wordpress" width="36" height="36" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
-</p>
+<a href="https://www.linkedin.com/in/mossab-idbenkellal/"><img src="https://img.shields.io/badge/LinkedIn-151515?style=for-the-badge&logo=linkedin&logoColor=F05A2A" alt="LinkedIn"/></a>
+<a href="mailto:idmossab@gmail.com"><img src="https://img.shields.io/badge/Email-151515?style=for-the-badge&logo=gmail&logoColor=F05A2A" alt="Email"/></a>
+<!-- Portfolio badge, add when the site is live:
+<a href="https://PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-F05A2A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+-->
 
-### Socials
+## Products
 
-<p align="left"><a href="https://www.linkedin.com/in/mossab-idbenkellal/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/products/wortsuche.webp" alt="Wortsuche screenshots" width="100%"/>
+      <h3>Wortsuche</h3>
+      <p>Learn German vocabulary with word search.</p>
+      <a href="https://play.google.com/store/apps/details?id=com.idmossab.wortsuche"><img src="assets/google-play-badge.png" alt="Get it on Google Play" height="40"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/products/smart-error-inspector.webp" alt="Smart Error Inspector screenshot" width="100%"/>
+      <h3>Smart Error Inspector</h3>
+      <p>Inspect browser errors with more context.</p>
+      <a href="https://chromewebstore.google.com/detail/smart-error-inspector/moogpbllhkfjegcnhnjidbijgjgahaod"><img src="https://img.shields.io/badge/Chrome_Web_Store-151515?style=for-the-badge&logo=googlechrome&logoColor=F05A2A" alt="Chrome Web Store" height="40"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/products/auto-radio-button.webp" alt="Auto Radio Button screenshot" width="100%"/>
+      <h3>Auto Radio Button</h3>
+      <p>Select repetitive YES/NO form options in one click.</p>
+      <a href="https://chromewebstore.google.com/detail/auto-radio-button/mgcpdmfbjnfhaglmghdehpdlndcihkjo"><img src="https://img.shields.io/badge/Chrome_Web_Store-151515?style=for-the-badge&logo=googlechrome&logoColor=F05A2A" alt="Chrome Web Store" height="40"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/products/prayer-timer.webp" alt="Prayer Timer screenshot" width="100%"/>
+      <h3>Prayer Timer</h3>
+      <p>Prayer times with city selection and notifications.</p>
+      <a href="https://chromewebstore.google.com/detail/prayer-timer/dhmckhpkidimmjfhpplhpfapedefgmne"><img src="https://img.shields.io/badge/Chrome_Web_Store-151515?style=for-the-badge&logo=googlechrome&logoColor=F05A2A" alt="Chrome Web Store" height="40"/></a>
+    </td>
+  </tr>
+</table>
 
-<a href="http://www.github.com/idmossab"><img src="https://github-readme-streak-stats.herokuapp.com/?user=idmossab&stroke=ffffff&background=000000&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+## Skills
+
+**Marketing**<br/>
+<img src="https://img.shields.io/badge/Email_Marketing-F05A2A?style=for-the-badge" alt="Email Marketing"/>
+<img src="https://img.shields.io/badge/Deliverability-F05A2A?style=for-the-badge" alt="Deliverability"/>
+<img src="https://img.shields.io/badge/YouTube_Ads-F05A2A?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Ads"/>
+<img src="https://img.shields.io/badge/AI_Content-F05A2A?style=for-the-badge" alt="AI Content"/>
+
+**Product**<br/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,js,html,css&theme=dark" alt="Flutter, Dart, JavaScript, HTML, CSS"/>
+
+**Automation**<br/>
+<img src="https://skillicons.dev/icons?i=py,bash,linux,git,docker&theme=dark" alt="Python, Bash, Linux, Git, Docker"/>
+<img src="https://img.shields.io/badge/n8n-151515?style=for-the-badge&logo=n8n&logoColor=F05A2A" alt="n8n" height="48"/>
+
+## Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=idmossab&show_icons=true&hide_border=true&border_radius=10&bg_color=151515&title_color=F05A2A&text_color=f4f1eb&icon_color=F05A2A" alt="GitHub stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idmossab&layout=compact&hide_border=true&border_radius=10&bg_color=151515&title_color=F05A2A&text_color=f4f1eb" alt="Top languages" height="165"/>
